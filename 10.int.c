@@ -12,4 +12,10 @@ void main(void)
 
         */
         int idadeEmAnos = 20;
+        /*
+
+            sobre bytes: https://pt.wikipedia.org/wiki/Byte
+            sobre bit: https://pt.wikipedia.org/wiki/Bit
+
+        */
     }
