@@ -16,6 +16,7 @@ void main(void)
 
             sobre bytes: https://pt.wikipedia.org/wiki/Byte
             sobre bit: https://pt.wikipedia.org/wiki/Bit
+            sobre ASCII: https://pt.wikipedia.org/wiki/ASCII
 
         */
     }
