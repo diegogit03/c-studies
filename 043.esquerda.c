@@ -7,6 +7,6 @@ void main()
 
         printf("Justificado á direita %5d valor\n", int_valor);
         printf("Justificado á esquerda %-5d valor\n", int_valor);
-        printf("Justificado á direita %5d", flt_valor);
-        printf("Justificado á esquerda %-5d", flt_valor);
+        printf("Justificado á direita %7.2f valor\n", flt_valor);
+        printf("Justificado á esquerda %-7.2f valor\n", flt_valor);
     }
